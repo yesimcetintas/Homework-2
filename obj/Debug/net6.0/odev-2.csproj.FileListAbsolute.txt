@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/odev-2/bin/Debug/net6.0/odev-2
+/Users/srknctnts/Desktop/Patika .net core/C#/odev-2/bin/Debug/net6.0/odev-2.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/odev-2/bin/Debug/net6.0/odev-2.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/odev-2/bin/Debug/net6.0/odev-2.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/odev-2/bin/Debug/net6.0/odev-2.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/odev-2/obj/Debug/net6.0/odev-2.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/odev-2/obj/Debug/net6.0/odev-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/odev-2/obj/Debug/net6.0/odev-2.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/odev-2/obj/Debug/net6.0/odev-2.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/odev-2/obj/Debug/net6.0/odev-2.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/odev-2/obj/Debug/net6.0/odev-2.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/odev-2/obj/Debug/net6.0/refint/odev-2.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/odev-2/obj/Debug/net6.0/odev-2.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/odev-2/obj/Debug/net6.0/odev-2.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/odev-2/obj/Debug/net6.0/ref/odev-2.dll
